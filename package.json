@@ -12,5 +12,8 @@
   "packageManager": "pnpm@7.7.0",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.4.0"
+  }
 }
